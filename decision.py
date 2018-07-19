@@ -14,3 +14,7 @@ elif(x != y):
 else:
     print("x and y neither equal nor y is greater")#this line will never run
 
+"""
+Watch this video: https://www.youtube.com/watch?v=f4KOjWS_KZs
+"""
+
